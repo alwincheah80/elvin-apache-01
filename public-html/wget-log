@@ -1,0 +1,15 @@
+--2022-05-02 23:01:26--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.alicdn.com%2Ftfs%2FTB1ZuglQoz1gK0jSZLeXXb9kVXa-1200-630.png
+Resolving www.google.com (www.google.com)... 142.251.42.228
+Connecting to www.google.com (www.google.com)|142.251.42.228|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2022-05-02 23:01:26--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fimg.alicdn.com%2Ftfs%2FTB1ZuglQoz1gK0jSZLeXXb9kVXa-1200-630.png’
+
+               imgres?imgurl=     [<=>                                               ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fimg     [ <=>                                              ]  13.46K  --.-KB/s    in 0.009s  
+
+2022-05-02 23:01:26 (1.52 MB/s) - ‘imgres?imgurl=https:%2F%2Fimg.alicdn.com%2Ftfs%2FTB1ZuglQoz1gK0jSZLeXXb9kVXa-1200-630.png’ saved [13782]
+
